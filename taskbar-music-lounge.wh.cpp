@@ -1,10 +1,8 @@
 // ==WindhawkMod==
-// @id              taskbar-music-lounge
-// @name            Taskbar Music Lounge
-// @description     A native-style music ticker with media controls.
-// @version         3.0
-// @author          Hashah2311
-// @github          https://github.com/Hashah2311
+// @id              taskbar-music
+// @name            Taskbar Music
+// @description     Player de musica na taskbar
+// @version         1.0
 // @include         explorer.exe
 // @compilerOptions -lole32 -ldwmapi -lgdi32 -luser32 -lwindowsapp -lshcore -lgdiplus
 // ==/WindhawkMod==
